@@ -75,6 +75,7 @@ header {
   color: var(--title-text-color);
 }
 .hidden {
+  display: none;
 }
 /* buttons */
 button {
