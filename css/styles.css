@@ -205,7 +205,7 @@ button:focus {
   color: var(--primary-text-color);
 }
 /* footer section */
-footer {
+.page-footer {
   background-color: var(--footer-background-color);
 }
 
